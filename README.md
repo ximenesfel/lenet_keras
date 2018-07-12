@@ -6,6 +6,10 @@ LeNet is a small deep neural network used to teach the basic of CNN (Convolution
 
 In this project we will use [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
 
+# Framework
+
+In this project will be used Keras with backend Tensorflow.
+
 # Usage
 
 Run code:
